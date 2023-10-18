@@ -1,0 +1,122 @@
+header {
+    background-color: #FFFFFF;
+}
+
+main {
+    background-color: #F8F8F8;
+    padding-bottom: 5px;
+}
+
+#footer {
+    background-color: #FFFFFF;
+}
+
+.container {
+    margin-bottom: 50px;
+}
+
+.bgPink {
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.carousel-item {
+    padding: 20px 80px;
+}
+
+.price {
+    color: #FF136F;
+}
+
+.pinkButton {
+    border: none;
+    border-radius: 9px;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px;
+    border-radius: 18px;
+}
+
+.cat1 {
+    background: linear-gradient(152deg, #FF9C35 0%, #FFD019 100%);
+}
+
+.cat2 {
+    background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
+}
+
+.cat3 {
+    background: linear-gradient(170deg, #4289FF 0%, #3F07F8 100%);
+}
+
+.category h1 {
+    color: #FFFFFF;
+}
+
+.h3mb {
+    margin: 15px 5px;
+}
+
+.orangeButton {
+    border: none;
+    color: #FF9D00;
+    background-color: #F8F8F8;
+    padding: 0;
+    margin: 0;
+}
+
+#shoes img {
+    width: 300px;
+}
+
+.blackButton {
+    border: none;
+    border-radius: 9px;
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.card {
+    padding: 50px;
+    text-align: center;
+    border: none;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.05);
+    border-radius: 21px;
+}
+
+.card-title {
+    margin: 15px 0px;
+}
+
+.h5Price {
+    margin: 40px 0px 25px 0px;
+}
+
+footer p {
+    color: #707070;
+}
+
+#subscribe {
+    background-color: #FEEAE9;
+    height: 419px;
+    border-radius: 23px;
+}
+
+#subscribe input {
+    margin: 10px 0px;
+    border: none;
+}
+
+.copyright {
+    text-align: center;
+    color: #969696;
+}
